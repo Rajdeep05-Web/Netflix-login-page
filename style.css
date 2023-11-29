@@ -516,6 +516,9 @@ nav {
   z-index: 10;
   height: 10vh;;
 }
+  select {
+  margin-top: 0px;
+}
 .main .hero {
   /* border: 5px solid rgb(112, 255, 112 ); */
   width: 100%;
