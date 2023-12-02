@@ -492,9 +492,9 @@ footer {
   display: inline-block;
   margin-bottom: 15px;
 }
-select {
+/* select {
   margin-top: 15px;
-}
+} */
 }
 @media screen and (max-width: 412px) {
 .membership{
@@ -652,7 +652,7 @@ width: 100%;
   font-weight: 400;
   text-align: center;
 }
-select {
+/* select {
   margin-top: 15px;
-}
+} */
 }
